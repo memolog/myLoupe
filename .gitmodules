@@ -1,0 +1,3 @@
+[submodule "mt-plugin-Loupe"]
+	path = mt-plugin-Loupe
+	url = git@github.com:movabletype/mt-plugin-Loupe.git
